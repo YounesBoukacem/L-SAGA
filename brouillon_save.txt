@@ -1,4 +1,0 @@
-hps_star {'init_type': 'palmer', 'selection_type': 'random', 'crossover_type': 'k_points', 'replacement_type': 'best_between_parents_and_offspring', 'population_size': 40, 'pool_size': 0.5, 'crossover_rate': 0.4, 'mutation_rate': 0.9, 'num_iterations': 900, 'max_stagnation': 200, 'k_points': 17}
----------------------------------------------------------------------------------
-[8, 14, 16, 2, 5, 3, 10, 12, 15, 13, 4, 7, 17, 1, 6, 0, 18, 9, 19, 11]
---------------------------------------------------------------------------------
