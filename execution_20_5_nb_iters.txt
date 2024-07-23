@@ -1,0 +1,130 @@
+INSTANCE: 1
+===> EXEC: 1
+Executing initial GA with 300 iterations
+Temperature 0.07163516982424385, GA 500 iters:  58%|█████▊    | 98/170 [02:33<01:52,  1.56s/it]
+===> EXEC: 2
+Executing initial GA with 500 iterations
+Temperature 0.023266670980578764, GA 400 iters:  81%|████████  | 137/170 [02:39<00:38,  1.17s/it]
+===> EXEC: 3
+Executing initial GA with 200 iterations
+Temperature 0.008709164298258874, GA 500 iters:  93%|█████████▎| 158/170 [09:55<00:45,  3.77s/it]
+
+
+
+INSTANCE: 2
+===> EXEC: 1
+Executing initial GA with 400 iterations
+Temperature 0.008414651495902294, GA 200 iters:  89%|████████▉ | 152/170 [05:08<00:36,  2.03s/it]
+===> EXEC: 2
+Executing initial GA with 300 iterations
+Temperature 0.009033442292970796, GA 200 iters:  83%|████████▎ | 141/170 [04:49<00:59,  2.05s/it]
+===> EXEC: 3
+Executing initial GA with 200 iterations
+Temperature 0.008130098063673714, GA 400 iters:  86%|████████▌ | 146/170 [04:13<00:41,  1.73s/it]
+
+
+
+INSTANCE: 3
+===> EXEC: 1
+Executing initial GA with 400 iterations
+Temperature 0.07178979876918531, GA 300 iters:  45%|████▌     | 77/170 [02:14<02:42,  1.75s/it]
+===> EXEC: 2
+Executing initial GA with 300 iterations
+Temperature 0.016423203268260675, GA 400 iters:  69%|██████▉   | 117/170 [04:27<02:01,  2.28s/it]
+===> EXEC: 3
+Executing initial GA with 200 iterations
+Temperature 0.020231887809198927, GA 500 iters:  78%|███████▊  | 132/170 [03:45<01:04,  1.71s/it]
+
+
+
+INSTANCE: 4
+===> EXEC: 1
+Executing initial GA with 400 iterations
+Temperature 0.008414651495902295, GA 500 iters:  89%|████████▉ | 152/170 [14:41<01:44,  5.80s/it]
+===> EXEC: 2
+Executing initial GA with 600 iterations
+Temperature 0.008727963568087723, GA 200 iters:  81%|████████  | 137/170 [11:04<02:39,  4.85s/it]
+===> EXEC: 3
+Executing initial GA with 300 iterations
+Temperature 0.01075205468920848, GA 200 iters:  88%|████████▊ | 150/170 [06:27<00:51,  2.58s/it] 
+
+
+
+INSTANCE: 5
+===> EXEC: 1
+Executing initial GA with 300 iterations
+Temperature 0.009329474525402363, GA 300 iters: 100%|██████████| 170/170 [06:34<00:00,  2.32s/it]
+===> EXEC: 2
+Executing initial GA with 500 iterations
+Temperature 0.008709164298258871, GA 600 iters:  93%|█████████▎| 158/170 [07:47<00:35,  2.96s/it]
+===> EXEC: 3
+Executing initial GA with 200 iterations
+Temperature 0.0769030271865205, GA 400 iters:  52%|█████▏    | 88/170 [02:04<01:55,  1.41s/it] 
+
+
+
+INSTANCE: 6
+===> EXEC: 1
+Executing initial GA with 300 iterations
+Temperature 0.05416648001833186, GA 500 iters:  54%|█████▎    | 91/170 [01:59<01:43,  1.32s/it]
+===> EXEC: 2
+Executing initial GA with 300 iterations
+Temperature 0.028786288307422303, GA 500 iters:  64%|██████▍   | 109/170 [03:46<02:06,  2.08s/it]
+===> EXEC: 3
+Executing initial GA with 600 iterations
+Temperature 0.10192378837600383, GA 600 iters:  44%|████▎     | 74/170 [01:32<02:00,  1.25s/it]
+
+
+
+INSTANCE: 7
+===> EXEC: 1
+Executing initial GA with 600 iterations
+Temperature 0.04531265834758517, GA 300 iters:  72%|███████▏  | 123/170 [03:15<01:14,  1.59s/it] 
+===> EXEC: 2
+Executing initial GA with 500 iterations
+Temperature 0.02781283894436938, GA 600 iters:  60%|██████    | 102/170 [02:18<01:32,  1.36s/it] 
+===> EXEC: 3
+Executing initial GA with 600 iterations
+Temperature 0.04710128697246249, GA 200 iters:  52%|█████▏    | 88/170 [01:56<01:48,  1.32s/it]
+
+
+
+INSTANCE: 8
+===> EXEC: 1
+Executing initial GA with 200 iterations
+Temperature 0.008414651495902294, GA 400 iters:  89%|████████▉ | 152/170 [09:15<01:05,  3.65s/it]
+===> EXEC: 2
+Executing initial GA with 500 iterations
+Temperature 0.02326667098057876, GA 300 iters:  81%|████████  | 137/170 [04:00<00:57,  1.76s/it] 
+===> EXEC: 3
+Executing initial GA with 400 iterations
+Temperature 0.008414651495902294, GA 500 iters:  89%|████████▉ | 152/170 [08:25<00:59,  3.33s/it]
+
+
+
+INSTANCE: 9
+===> EXEC: 1
+Executing initial GA with 600 iterations
+Temperature 0.03678247950392849, GA 200 iters:  64%|██████▍   | 109/170 [02:25<01:21,  1.34s/it]
+===> EXEC: 2
+Executing initial GA with 500 iterations
+Temperature 0.035462080445936225, GA 500 iters:  74%|███████▎  | 125/170 [04:09<01:29,  2.00s/it]
+===> EXEC: 3
+Executing initial GA with 600 iterations
+Temperature 0.09826497918277623, GA 500 iters:  51%|█████     | 87/170 [02:47<02:39,  1.93s/it]
+
+
+
+INSTANCE: 10
+===> EXEC: 1
+Executing initial GA with 600 iterations
+Temperature 0.060184977798146494, GA 600 iters:  51%|█████     | 87/170 [02:06<02:00,  1.45s/it]
+===> EXEC: 2
+Executing initial GA with 600 iterations
+Temperature 0.008130098063673714, GA 200 iters:  86%|████████▌ | 146/170 [05:03<00:49,  2.08s/it]
+===> EXEC: 3
+Executing initial GA with 400 iterations
+Temperature 0.030770172371815396, GA 300 iters:  83%|████████▎ | 141/170 [03:02<00:37,  1.29s/it]
+
+
+
